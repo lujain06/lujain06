@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hii I'm Lujain 👋
 ### - 🔭 I’m currently working on a Student Score Prediction Machine Learning program
 ### - 🌱 I’m currently learning C# and Python
 ### - ⚡ Fun fact: My favorite color is pink🩷
