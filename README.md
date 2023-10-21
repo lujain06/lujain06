@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### - 🔭 I’m currently working on a Student Score Prediction Machine Learning program
+### - 🌱 I’m currently learning C# and Python
+### - 📫 How to reach me: [almawrilujain@gmail.com](mailto:almawrilujain@gmail.com)
 
 <!--
 **lujain06/lujain06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
