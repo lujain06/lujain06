@@ -1,5 +1,5 @@
 ## Hii I'm Lujain 👋
-### - 🔭 I’m currently a student at UMich!
+### - 🔭 I’m currently a CSE student at UMich!
 ### - 🌱 I’m currently learning C++
 ### - 📫 How to reach me: [almawrilujain@gmail.com](mailto:almawrilujain@gmail.com)
 
