@@ -1,5 +1,5 @@
 ## Hii I'm Lujain 👋
-### - 🔭 I’m currently a CSE student at UMich and an Amazon SDE Intern!
+### - 🔭 I’m currently a Ccomputer Science student at UMich and an Amazon SDE Intern!
 ### - 🌱 I’m currently learning C++
 ### - 📫 How to reach me: [almawrilujain@gmail.com](mailto:almawrilujain@gmail.com)
 
